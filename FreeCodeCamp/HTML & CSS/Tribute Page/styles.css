@@ -1,0 +1,23 @@
+* {
+  background-color:grey;
+}
+
+h1,h1+p{
+  text-align:center;
+}
+
+.figure {
+  background-color:black;
+}
+
+body {
+  display:box;
+  border:2px solid red;
+  
+}
+
+img{
+  display:block;
+  max-width:100%;
+  max-height:auto;
+}
